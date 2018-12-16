@@ -1,0 +1,54 @@
+.container .box{
+
+
+
+    
+    
+    display: table;
+    width: 100px;
+   
+    padding-top: 0%;
+    margin-top: 0%;
+
+
+}
+
+.container .box .box-row{
+
+    display: table-row;
+}
+
+
+.container .box .box-row .box-cell{
+
+    display: table-cell;
+    width: 100%;
+    padding:100px;
+    
+}
+
+
+
+    
+
+}
+
+.header{
+    
+
+    
+    background: black;
+    
+
+    
+
+
+
+}
+
+ul, ol{
+    list-style: none;}
+
+    a {
+        text-decoration: none;
+    }
